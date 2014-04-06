@@ -59,7 +59,7 @@ from random import randrange  # Used in DEBUG mode
 DEBUG = False
 ### * OTHER SETTINGS   * ###
 
-ACCESS_TOKEN = 'CAAEXHZAZCOxjkBACH7pH6gdUnHMgo8kmpOG45au8kVZB3g3DbdxUQEMayhOENTUr2b6ktHmrPAPm2ZBApsE3rR0R49bNI49lhik7ZAncoF2kjxpJ0TrZAjbUU3Qlg73oFMqI0VUqtvLbUe9FdxrQjKiYAyb3cN3qdkt74Jd9oyW6qSyhZAOXWMTYsjvQIxNehWYv63iijnCagZDZD' # Expires often
+ACCESS_TOKEN = '' # Expires often
 KEYS = ['id', 
           'name', 
           'first_name', 
