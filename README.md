@@ -1,4 +1,7 @@
 FriendlyStats
 =============
 
-gets data on facebook friends. see documentation in the fs-v_x_.py file
+Gets basic data on you facebook friends.
+Documentation located in the fs-v_x_.py file.
+
+-- Requires facebook sdk for python --
