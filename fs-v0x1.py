@@ -6,7 +6,6 @@
  *  :: AUTHOR      :: Brett Beutell (@brettimus, @rudeboojay)
  *  :: DATE        :: 4/5/2014
  *  :: DESCRIPTION :: Writes a comma-delimited CSV file, 
- *                    'yourFBFriends.csv',
  *                     with basic data on all friends of 
  *                     the ACCESS_TOKEN's corresponding user.
  *  :: TODO        :: 
