@@ -163,5 +163,6 @@ class FriendlyRetriever(object):
         return self.fs_test() if self.DEBUG else self.friendlyStats()
 
 
+### * Run the program * ###
 fr = FriendlyRetriever(KEYS, ACCESS_TOKEN, DEBUG=False)
 fr.main()
