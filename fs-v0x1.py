@@ -164,5 +164,5 @@ class FriendlyRetriever(object):
 
 
 ### * Run the program * ###
-fr = FriendlyRetriever(KEYS, ACCESS_TOKEN, DEBUG=False)
+fr = FriendlyRetriever(KEYS, ACCESS_TOKEN, DEBUG=DEBUG)
 fr.main()
