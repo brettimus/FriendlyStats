@@ -3,7 +3,6 @@
  **  friendlyStats.py  **
  ************************
  *  :: VERSION     :: v0.1
- *  :: AUTHOR      :: Brett Beutell (@brettimus, @rudeboojay)
  *  :: DATE        :: 4/5/2014
  *  :: DESCRIPTION :: Writes a comma-delimited CSV file, 
  *                     with basic data on all friends of 
